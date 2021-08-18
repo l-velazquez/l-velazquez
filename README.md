@@ -1,4 +1,5 @@
-## Hi, My name is _Luis Fernando Javier Velazquez-Sosa_👋
+## Hi, My name is
+## _Luis Fernando Javier Velazquez-Sosa_👋
 
 ### 📷 I’m currently learning about Image Analysis and Computer Vision.
 #### 🔭 I’m currently working a Raspberry Pi Proyect that uses sensors to measure temperature and huminity data. 
