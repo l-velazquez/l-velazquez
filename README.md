@@ -10,3 +10,4 @@
 - 📷 Fun fact: I enjoy coding for fun and also photography
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-velazquez&layout=compact)](https://github.com/l-velazquez/github-readme-stats)
