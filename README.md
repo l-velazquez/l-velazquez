@@ -9,4 +9,5 @@
 - 😄 Pronouns: He/Him
 - 📷 Fun fact: I enjoy coding for fun and also photography
 <br>
+www.linkedin.com/in/luis-f-velazquez-sosa
 
