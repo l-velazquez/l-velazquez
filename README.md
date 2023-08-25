@@ -1,6 +1,6 @@
 ## Hi, My name is Luis Fernando Javier Velazquez-Sosa👋
 
-### 📷 I’m currently learning about Machine Learning and Cyber Security.
+### 📷 I’m currently learning about Software Engineering.
 #### 🔭 
 
 - 👨🏼‍💻 I’m looking to collaborate on future projects
