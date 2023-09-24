@@ -1,6 +1,6 @@
 ## Hi, My name is Luis Fernando Javier Velazquez-Sosa👋
 
-### 📷 I’m currently learning about Software Engineering and Video Game Development.
+### I’m currently learning about Software Engineering and Video Game Development.
 
 - Working with the University of Puerto Rico, DECEP in the Adelanta Project
 - 💬 Ask me about Python!
