@@ -9,6 +9,10 @@
 - 😄 Pronouns: He/Him
 - 📷 Fun fact: I enjoy coding for fun and also photography
 
+![l-velazquez's Stats](https://github-readme-stats.vercel.app/api?username=l-velazquez&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![l-velazquez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l-velazquez&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 
 
