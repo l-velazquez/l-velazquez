@@ -10,13 +10,6 @@ Hi there, I’m Luis Fernando Javier Velázquez-Sosa 👋
   -	✉️ Let’s connect: luisfernandojavier.velazquez@upr.edu
   -	😄 Pronouns: He/Him
 
-📊 My GitHub Stats
-
-![l-velazquez's Stats](https://github-readme-stats.vercel.app/api?username=l-velazquez&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![l-velazquez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l-velazquez&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
 💡 What drives me:
 
   I’m passionate about solving real-world problems with technology. My current focus is on leveraging data to promote equity in healthcare, but I’m always open to exploring new domains and collaborations.
@@ -25,4 +18,10 @@ Hi there, I’m Luis Fernando Javier Velázquez-Sosa 👋
 	- Building robust applications that make a difference.
 	- Exploring new programming languages like Rust and frameworks like Django.
 	- Sharing my journey and knowledge through blogs or videos to inspire others.
+
+📊 My GitHub Stats
+
+![l-velazquez's Stats](https://github-readme-stats.vercel.app/api?username=l-velazquez&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![l-velazquez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l-velazquez&theme=vue-dark&show_icons=true&hide_border=true)
 
