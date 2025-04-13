@@ -1,27 +1,23 @@
+Hi there, I’m Luis! 
 
-Hi there, I’m Luis Fernando Javier Velázquez-Sosa 👋
+Welcome to my GitHub profile! I’m a passionate software developer and researcher focused on combining data science with medical insights to create impactful solutions. My current work involves analyzing clinical laboratory data using machine learning techniques to find reference intervals, particularly within lipid panels and thyroid-related labs.
 
-🚀 Exploring the Intersection of Technology and Health
-  -	📚 Currently learning: Advanced Machine Learning techniques.
-  -	💻 Working on: Applying Machine Learning and Data Science to tackle health disparities at the University of Puerto Rico, Medical Sciences Campus.
-  -	🌍 From: Beautiful Puerto Rico 🇵🇷
-  -	🐍 Ask me about: Python, Data Science, and Machine Learning.
-  -	🎥 Fun fact: I combine my passion for coding with photography – capturing moments in code and in life.
-  -	✉️ Let’s connect: luisfernandojavier.velazquez@upr.edu
-  -	😄 Pronouns: He/Him
+ My Tech Stack:
+	•	Languages: Python, JavaScript, SQL
+	•	Frameworks: Django, React {working on that:}
+	•	Data Science: Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn
+	•	Machine Learning: Gaussian Mixture Models, Clustering, Data Visualization
+	•	DevOps: Docker, Git, Raspberry Pi server setups
+	•	Other Tools: Jupyter Notebook, LED Matrix projects
 
-💡 What drives me:
+What I’m Working On:
+	•	Building a tool to find reference intervals in clinical data
+	•	Exploring correlations between lipid panels and thyroid function using machine learning
+	•	Developing web apps with React and Django
+	•	Setting up Raspberry Pi as a home server for data storage and network management
+	•	Creating data-driven projects around personal aesthetics and style classification
 
-  I’m passionate about solving real-world problems with technology. My current focus is on leveraging data to promote equity in healthcare, but I’m always open to exploring new domains and collaborations.
-
-🔍 Goals for the future:
-	- Building robust applications that make a difference.
-	- Exploring new programming languages like Rust and frameworks like Django.
-	- Sharing my journey and knowledge through blogs or videos to inspire others.
-
-📊 My GitHub Stats
-
-![l-velazquez's Stats](https://github-readme-stats.vercel.app/api?username=l-velazquez&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![l-velazquez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l-velazquez&theme=vue-dark&show_icons=true&hide_border=true)
-
+ Fun Facts:
+	•	I enjoy experimenting with single-board PCs and Raspberry Pi projects.
+	•	I’m passionate about combining software development with data analysis.
+	•	In my spare time, I love to work on personal web apps and tech projects.
